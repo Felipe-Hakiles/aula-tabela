@@ -1,0 +1,13 @@
+h1{
+    background-color:purple;
+    margin: 25px;
+    padding: 10px  25px;
+    text-align: center;
+}
+
+p{
+    margin: 50px 25px;
+    padding: 25px;
+    background-color: rgb(230, 171, 234);
+    border-style:inherit;
+}
