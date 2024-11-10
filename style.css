@@ -11,3 +11,11 @@ p{
     background-color: rgb(230, 171, 234);
     border-style:inherit;
 }
+
+h2{
+    margin: 50px 25px;
+    padding: 25px ;
+    background-color: purple;
+    border-style: inherit;
+    text-align: center;
+}
